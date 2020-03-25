@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labsheet4</string>
+    <string name="channel_name">100CH</string>
+    <string name="channel_description">100</string>
+</resources>
